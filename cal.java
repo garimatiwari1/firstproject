@@ -6,8 +6,8 @@ int y=2,z=5;
   System.out.println(x);
  int a=z-y;
  System.out.println(a);
- 
- 
+ int d=z/y;
+ System.out.println(d);
  
  
 }
